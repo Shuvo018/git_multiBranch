@@ -1,2 +1,3 @@
-style kori dici
-koy style?
+A:style kori dici
+B:koy style?
+B:say something
