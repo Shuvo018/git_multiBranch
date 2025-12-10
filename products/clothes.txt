@@ -1,0 +1,13 @@
+products:
+{{
+product:" T-shirt",
+size: M,
+price: 555
+},
+{
+product: "Jacket",
+size: "XL",
+price: 1000
+},
+}
+

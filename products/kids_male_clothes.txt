@@ -1,0 +1,14 @@
+products:
+{{
+product:" AAAA",
+size: "s",
+price: 555
+},
+{
+product: "BBB",
+size: "s",
+price: 1000
+},
+
+}
+
