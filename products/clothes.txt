@@ -1,0 +1,6 @@
+products:
+{
+product:" T-shirt",
+size: M,
+price: 555
+}
